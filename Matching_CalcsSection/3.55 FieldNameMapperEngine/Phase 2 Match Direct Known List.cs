@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-using FuzzySharp;
+//using FuzzySharp;
 using System.Linq;
 
 namespace PTXClassLibrary
