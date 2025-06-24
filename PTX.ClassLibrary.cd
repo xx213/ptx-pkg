@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="PTXClassLibrary.Scheme" Collapsed="true">
+    <Position X="15.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAkAAAQAAAAAQAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>2. Data Classes\2 Scheme\2.00Scheme.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PTXClassLibrary.Category">
+    <Position X="8.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IABEAAAEAAEggiAgAIAAAAQAACIAAAAgAACAAABAAAA=</HashCode>
+      <FileName>2. Data Classes\2 Scheme\2.020Category.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PTXClassLibrary.RetirementAges" Collapsed="true">
+    <Position X="11.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAogAAAgYAAAEQAAAAAAAEAAEAAAAAAAAA=</HashCode>
+      <FileName>2. Data Classes\2 Scheme\2.03RetirementAges.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PTXClassLibrary.Equalisation" Collapsed="true">
+    <Position X="11.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAggAAAAAAAAAQEIAAABAEAAAAAAAAAAAI=</HashCode>
+      <FileName>2. Data Classes\2 Scheme\2.04Equalisation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PTXClassLibrary.Accrual" Collapsed="true">
+    <Position X="11.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAACAAAAggAAAAAAAAAQAAAAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>2. Data Classes\2 Scheme\2.07Accrual.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PTXClassLibrary.Tranche" Collapsed="true">
+    <Position X="9.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABACARAEAAAggEBAAAACABQAAAIABAAACCAAACAAAAA=</HashCode>
+      <FileName>2. Data Classes\2 Scheme\2.080Tranche.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PTXClassLibrary.Franking" Collapsed="true">
+    <Position X="13.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAggCAAAAAAAAQAAAAADAACAAAAAABAAAA=</HashCode>
+      <FileName>2. Data Classes\2 Scheme\2.09Franking.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PTXClassLibrary.COut" Collapsed="true">
+    <Position X="15.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAggAQAAAAAAAQAEAAAAAAEAACAAAAAAAA=</HashCode>
+      <FileName>2. Data Classes\2 Scheme\2.10COut.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PTXClassLibrary.SalLink" Collapsed="true">
+    <Position X="13.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAggAAAAAAAAAQAAAAABAAAgAAAAAAAAAA=</HashCode>
+      <FileName>2. Data Classes\2 Scheme\2.11SalLink.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PTXClassLibrary.Underpin" Collapsed="true">
+    <Position X="17" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAogAAAAAAAAAQAAAAARAAAAAAAAAAAAAA=</HashCode>
+      <FileName>2. Data Classes\2 Scheme\2.12Underpin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PTXClassLibrary.LEA" Collapsed="true">
+    <Position X="15.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAggAAAAAAAAAQAAAAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>2. Data Classes\2 Scheme\2.13LEA.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PTXClassLibrary.LumpSum" Collapsed="true">
+    <Position X="17" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAggAAAIAAAAAQAAAAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>2. Data Classes\2 Scheme\2.14Lumpsum.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PTXClassLibrary.Death" Collapsed="true">
+    <Position X="17" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAEAQAAAAggAAAAAAAAAQAAAAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>2. Data Classes\2 Scheme\2.15Death.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BenSpecRect">
+    <Position X="6.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>2. Data Classes\2 Scheme\2.011BenSpec.Rect.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PTXClassLibrary.ERFx">
+    <Position X="12.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAggAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>2. Data Classes\2.40 ERF\ERF.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PTXClassLibrary.ReTranche" Collapsed="true">
+    <Position X="9.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAAAAAAAAAAAAAQoEAAAAAAAAAAAAA=</HashCode>
+      <FileName>2. Data Classes\2 Scheme\2.081Tranche.ReTranche.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PTXClassLibrary.BenSpec">
+    <Position X="6.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAggAAAAAAAAAQAAAAAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>2. Data Classes\2 Scheme\2.01BenSpec.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

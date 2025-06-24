@@ -1,0 +1,9 @@
+PTXCalcName,DataTypeName,PensionDataType,PTXClassName,Description,KnownNames[List]
+Pre88Post78GMPBenDOL,System.Double,Member,Benefits,Pre 88 Bens at DOL,Pre88 GMP at DOL,,Pre88GMPPenDOL,Pre88GMPBenDOL,
+Pre90Post88GMPBenDOL,Double,Member,Benefits,,Pre90 GMP at DOL,,,,
+Pre97Post90GMPBenDOL,Double,Member,Benefits,,Post 90 GMP at DOL,,,,
+Pre85Post78XSBenDOL,Double,Member,Benefits,,Pre85 XS at DOL,,,,
+Pre88Post85XSBenDOL,Double,Member,Benefits,,Pre88 XS At DOL,,,,
+Pre90Post88XSBenDOL,Double,Member,Benefits,,Pre90 XS at DOL,,,,
+Pre97Post90XSBenDOL,Double,Member,Benefits,,Pre97XS at DOL,,,,
+memName,String,Member,Benefits,,Name, MemName, namer, N1, ,TestName
